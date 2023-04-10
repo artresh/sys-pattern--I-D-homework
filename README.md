@@ -27,13 +27,14 @@
 `Приведите ответ в свободной форме........`
 
 1. `Установил согласно официальной инструкции - https://www.jenkins.io/doc/book/installing/linux/#debianubuntu 
-<a href="https://ibb.co/3mdj19s"><img src="https://i.ibb.co/3mdj19s/Virtual-Box-Artresh-10-04-2023-21-39-06.png" alt="Virtual-Box-Artresh-10-04-2023-21-39-06" border="0" /></a>`
+https://ibb.co/3mdj19s`
 2. `Установил согласно сайту - https://infoit.com.ua/linux/debian/kak-ustanovit-go-na-debian-11/
-<a href="https://ibb.co/brLVxfD"><img src="https://i.ibb.co/brLVxfD/Virtual-Box-Artresh-10-04-2023-22-24-47.png" alt="Virtual-Box-Artresh-10-04-2023-22-24-47" border="0" /></a>`
+https://ibb.co/album/rRN42D`
 3. `Форкнутый репазиторий https://github.com/artresh/sdvps-materials`
-4. `Ссылаюсь на форкнуты репазиторий
-<a href="https://ibb.co/ZH2jn4g"><img src="https://i.ibb.co/ZH2jn4g/Virtual-Box-Artresh-10-04-2023-23-56-39.png" alt="Virtual-Box-Artresh-10-04-2023-23-56-39" border="0" /></a>
-Прописываю шаги <a href="https://ibb.co/4ZyGFJz"><img src="https://i.ibb.co/4ZyGFJz/Virtual-Box-Artresh-10-04-2023-23-57-12.png" alt="Virtual-Box-Artresh-10-04-2023-23-57-12" border="0" /></a>`
+4. `Ссылаюсь на форкнуты репазиторий https://ibb.co/ZH2jn4g
+Прописываю шаги https://ibb.co/4ZyGFJz
+Попытка собрать сборку проваливается, возникает подобного рода ошибка https://ibb.co/pnfgv5L`
+
 
 
 ```
