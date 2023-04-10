@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Что такое DevOps. СI/СD`" - `Решетников Артем`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -26,12 +26,15 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. `Установил согласно официальной инструкции - https://www.jenkins.io/doc/book/installing/linux/#debianubuntu 
+<a href="https://ibb.co/3mdj19s"><img src="https://i.ibb.co/3mdj19s/Virtual-Box-Artresh-10-04-2023-21-39-06.png" alt="Virtual-Box-Artresh-10-04-2023-21-39-06" border="0" /></a>`
+2. `Установил согласно сайту - https://infoit.com.ua/linux/debian/kak-ustanovit-go-na-debian-11/
+<a href="https://ibb.co/brLVxfD"><img src="https://i.ibb.co/brLVxfD/Virtual-Box-Artresh-10-04-2023-22-24-47.png" alt="Virtual-Box-Artresh-10-04-2023-22-24-47" border="0" /></a>`
+3. `Форкнутый репазиторий https://github.com/artresh/sdvps-materials`
+4. `Ссылаюсь на форкнуты репазиторий
+<a href="https://ibb.co/ZH2jn4g"><img src="https://i.ibb.co/ZH2jn4g/Virtual-Box-Artresh-10-04-2023-23-56-39.png" alt="Virtual-Box-Artresh-10-04-2023-23-56-39" border="0" /></a>
+Прописываю шаги <a href="https://ibb.co/4ZyGFJz"><img src="https://i.ibb.co/4ZyGFJz/Virtual-Box-Artresh-10-04-2023-23-57-12.png" alt="Virtual-Box-Artresh-10-04-2023-23-57-12" border="0" /></a>`
+
 
 ```
 Поле для вставки кода...
