@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-`Приведите ответ в свободной форме........`
+`https://github.com/artresh/resh-netology/blob/main/README.md`
 
 1. `Установил согласно официальной инструкции - https://www.jenkins.io/doc/book/installing/linux/#debianubuntu 
 https://ibb.co/3mdj19s`
